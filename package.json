@@ -1,0 +1,19 @@
+{
+    "name": "github",
+    "version": "1.0.0",
+    "description": "",
+    "main": "github.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@octokit/core": "^5.0.0",
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "node-fetch": "^3.3.2"
+    }
+  }
